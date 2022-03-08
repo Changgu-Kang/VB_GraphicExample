@@ -1,0 +1,24 @@
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\bin\Debug\아날로그시계.exe.config
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\bin\Debug\아날로그시계.exe
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\bin\Debug\아날로그시계.pdb
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\bin\Debug\아날로그시계.xml
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.vbprojAssemblyReference.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.AnalogWatch.resources
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.Resources.resources
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.vbproj.GenerateResource.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.vbproj.CoreCompileInputs.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.exe
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.xml
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.pdb
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\bin\Debug\아날로그시계.exe.config
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\bin\Debug\아날로그시계.exe
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\bin\Debug\아날로그시계.pdb
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\bin\Debug\아날로그시계.xml
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.vbprojAssemblyReference.cache
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.AnalogWatch.resources
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.Resources.resources
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.vbproj.GenerateResource.cache
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.vbproj.CoreCompileInputs.cache
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.exe
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.xml
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\아날로그시계\obj\Debug\아날로그시계.pdb

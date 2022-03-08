@@ -1,0 +1,36 @@
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.exe.config
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.exe
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.pdb
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.xml
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.vbprojAssemblyReference.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.그림판.resources
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.Resources.resources
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.vbproj.GenerateResource.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.vbproj.CoreCompileInputs.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.exe
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.xml
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.pdb
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.exe.config
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.exe
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.pdb
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.xml
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.vbprojAssemblyReference.cache
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.그림판.resources
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.Resources.resources
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.vbproj.GenerateResource.cache
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.vbproj.CoreCompileInputs.cache
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.exe
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.xml
+D:\GNTECH\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.pdb
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.exe.config
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.exe
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.pdb
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\bin\Debug\그림판.xml
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.vbprojAssemblyReference.cache
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.그림판.resources
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.Resources.resources
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.vbproj.GenerateResource.cache
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.vbproj.CoreCompileInputs.cache
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.exe
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.xml
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\그림판\obj\Debug\그림판.pdb

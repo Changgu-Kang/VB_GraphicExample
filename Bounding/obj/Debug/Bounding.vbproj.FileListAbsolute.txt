@@ -1,0 +1,11 @@
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Debug\Bounding.Form1.resources
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Debug\Bounding.Resources.resources
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Debug\Bounding.vbproj.GenerateResource.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Debug\Bounding.vbproj.CoreCompileInputs.cache
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\bin\Debug\Bounding.exe.config
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\bin\Debug\Bounding.exe
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\bin\Debug\Bounding.pdb
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\bin\Debug\Bounding.xml
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Debug\Bounding.exe
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Debug\Bounding.xml
+D:\GNTECH\강의자료\2019년 2학기\비쥬얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Debug\Bounding.pdb

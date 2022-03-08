@@ -1,0 +1,12 @@
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\bin\Release\Bounding.exe.config
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\bin\Release\Bounding.exe
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\bin\Release\Bounding.pdb
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\bin\Release\Bounding.xml
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Release\바운딩.vbprojAssemblyReference.cache
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Release\Bounding.Form1.resources
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Release\Bounding.Resources.resources
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Release\바운딩.vbproj.GenerateResource.cache
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Release\바운딩.vbproj.CoreCompileInputs.cache
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Release\Bounding.exe
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Release\Bounding.xml
+D:\학교자료\강의자료\비주얼베이직\수업코드(VS2019)\graphic_example\Bounding\obj\Release\Bounding.pdb
